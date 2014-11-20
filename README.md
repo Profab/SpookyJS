@@ -14,10 +14,10 @@ Casper's API, have a look at [PhantomJS
 * [PhantomJS](http://phantomjs.org/) >= 1.9
 * [CasperJS](http://casperjs.org/) >= 1.0
 
-SpookyJS is available from npm.
+Install this fork by using this command:
 
 ``` shell
-$ npm install spooky
+$ npm install https://github.com/Profab/SpookyJS/archive/master.tar.gz
 ```
 
 ## Usage

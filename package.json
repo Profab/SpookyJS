@@ -1,11 +1,11 @@
 {
-  "name": "spooky",
-  "version": "0.2.5",
-  "author": "Lon Ingram <lon@waterfallmobile.com>",
-  "description": "Drive CasperJS from Node.js",
+  "name": "profab-spooky",
+  "version": "0.2.6",
+  "author": "Richard Lai <richardl@profabelectronics.com",
+  "description": "A more maintained library to drive CasperJS from Node.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/WaterfallEngineering/SpookyJS.git"
+    "url": "https://github.com/Profab/SpookyJS.git"
   },
   "main": "./lib/spooky.js",
   "scripts": {
